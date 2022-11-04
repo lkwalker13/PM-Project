@@ -29,7 +29,7 @@ else
 {
     Console.WriteLine($"Ну вот ты все испортил");
 }
-
+Console.WriteLine("Независимо от результата вы Молодец!")
 
 
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/evgenijlanke/Desktop/HomeWork/Hello/Hello/Hello.csproj": {}
+    "/Users/evgenijlanke/Documents/GitHub/PM-Project/Hello/Hello/Hello.csproj": {}
   },
   "projects": {
-    "/Users/evgenijlanke/Desktop/HomeWork/Hello/Hello/Hello.csproj": {
+    "/Users/evgenijlanke/Documents/GitHub/PM-Project/Hello/Hello/Hello.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/evgenijlanke/Desktop/HomeWork/Hello/Hello/Hello.csproj",
+        "projectUniqueName": "/Users/evgenijlanke/Documents/GitHub/PM-Project/Hello/Hello/Hello.csproj",
         "projectName": "Hello",
-        "projectPath": "/Users/evgenijlanke/Desktop/HomeWork/Hello/Hello/Hello.csproj",
+        "projectPath": "/Users/evgenijlanke/Documents/GitHub/PM-Project/Hello/Hello/Hello.csproj",
         "packagesPath": "/Users/evgenijlanke/.nuget/packages/",
-        "outputPath": "/Users/evgenijlanke/Desktop/HomeWork/Hello/Hello/obj/",
+        "outputPath": "/Users/evgenijlanke/Documents/GitHub/PM-Project/Hello/Hello/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/evgenijlanke/.nuget/NuGet/NuGet.Config"
